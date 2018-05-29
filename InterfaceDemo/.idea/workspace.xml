@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e769812-96d1-4959-b091-ed3bb915a44d" name="默认的" comment="" />
+    <list default="true" id="9b512340-5431-44b9-8f24-52a2ad60463e" name="默认的" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,14 +12,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExtendsDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExtendsDemo.java">
+      <file leaf-file-name="InterfaceDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InterfaceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="62" column="5" selection-start-line="57" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+            <state relative-caret-position="19">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               <folding>
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -31,7 +31,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/ExtendsDemo.java" />
+        <option value="$PROJECT_DIR$/src/InterfaceDemo.java" />
       </list>
     </option>
   </component>
@@ -42,27 +42,26 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="1210" />
+    <option name="y" value="35" />
+    <option name="width" value="714" />
+    <option name="height" value="915" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ExtendsDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExtendsDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="InterfaceDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterfaceDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ExtendsDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExtendsDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="InterfaceDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterfaceDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -70,6 +69,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,10 +89,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.ExtendsDemo">
-    <configuration name="ExtendsDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExtendsDemo" />
-      <module name="ExtendsDemo" />
+  <component name="RunManager" selected="应用程序.InterfaceDemo">
+    <configuration name="InterfaceDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceDemo" />
+      <module name="InterfaceDemo" />
     </configuration>
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -126,11 +127,11 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="应用程序.ExtendsDemo" />
+      <item itemvalue="应用程序.InterfaceDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ExtendsDemo" />
+        <item itemvalue="应用程序.InterfaceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -139,22 +140,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2e769812-96d1-4959-b091-ed3bb915a44d" name="默认的" comment="" />
-      <created>1527517324909</created>
+      <changelist id="9b512340-5431-44b9-8f24-52a2ad60463e" name="默认的" comment="" />
+      <created>1527585861758</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527517324909</updated>
-      <workItem from="1527517328793" duration="5167000" />
-      <workItem from="1527572774593" duration="654000" />
+      <updated>1527585861758</updated>
+      <workItem from="1527585864447" duration="4565000" />
+      <workItem from="1527595852207" duration="191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5821000" />
+    <option name="totallyTimeSpent" value="4756000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="0" width="784" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="968" y="28" width="571" height="732" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" />
@@ -166,10 +166,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="运行" order="7" weight="0.32962447" />
+      <window_info anchor="bottom" id="运行" order="7" weight="0.22168285" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="控制板" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24935065" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2172352" />
       <window_info id="设计师" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -181,7 +181,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="消息" order="7" weight="0.32962447" />
+      <window_info anchor="bottom" id="消息" order="7" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -195,24 +195,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ExtendsDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/InterfaceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="62" column="5" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExtendsDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/InterfaceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="62" column="5" selection-start-line="57" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+        <state relative-caret-position="19">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
           </folding>
         </state>
       </provider>
