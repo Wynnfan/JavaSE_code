@@ -15,11 +15,21 @@
       <file leaf-file-name="InterfaceDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/InterfaceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="437">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="e#287#288#0" expanded="true" />
                 <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#998#999#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#1113#1114#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,7 +54,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1210" />
     <option name="y" value="35" />
-    <option name="width" value="714" />
+    <option name="width" value="715" />
     <option name="height" value="915" />
   </component>
   <component name="ProjectView">
@@ -147,14 +157,16 @@
       <updated>1527585861758</updated>
       <workItem from="1527585864447" duration="4565000" />
       <workItem from="1527595852207" duration="191000" />
+      <workItem from="1527597684191" duration="1165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4756000" />
+    <option name="totallyTimeSpent" value="5921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="968" y="28" width="571" height="732" extended-state="0" />
+    <frame x="968" y="28" width="572" height="732" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" />
@@ -165,11 +177,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="消息" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="运行" order="7" weight="0.22168285" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="控制板" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2172352" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21684588" />
       <window_info id="设计师" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -177,11 +190,11 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="找到" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="消息" order="7" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -202,17 +215,58 @@
           <folding>
             <element signature="e#287#288#0" expanded="true" />
             <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InterfaceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="133">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
             <element signature="e#287#288#0" expanded="true" />
             <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
           </folding>
         </state>
       </provider>

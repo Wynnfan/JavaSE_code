@@ -1,4 +1,4 @@
-public class InterfaceDemo {
+public class InterfaceDemo{
     public static void main(String[] args){
         Vehicle p = new Plane();
         p.transit();
@@ -7,12 +7,12 @@ public class InterfaceDemo {
         System.out.println(
         new Product(){
             @Override
-            public float getPrice() {
+            public float getPrice(){
                 return 3.3f;
             }
 
             @Override
-            public String getName() {
+            public String getName(){
                 return "苹果";
             }
         }.getName());
