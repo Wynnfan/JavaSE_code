@@ -7,6 +7,12 @@ public class Main {
             arr.addLast(i);
         }
 
+        arr.add(1, 100);
+
+        arr.addFirst(1000);
+
+        arr.addLast(-1);
+        arr.remove(3);
         System.out.println(arr);
     }
 }

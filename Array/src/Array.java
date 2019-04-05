@@ -3,39 +3,43 @@ public class Array {
     private int[] data;
     private int size;
 
-    public static void main(String[] args) {
-
-    }
-
+    // 构造函数，传入数组的容量capacity构造Array
     public Array(int capacity) {
         data = new int[capacity];
         size = 0;
     }
 
+    // 无参构造函数，默认数组的容量capacit=10
     public Array() {
         this(10);
     }
 
+    // 获取数组中元素个数
     public int getSize() {
         return size;
     }
 
+    // 获取数组的容量
     public int getCapacity() {
         return data.length;
     }
 
+    // 返回数组是否为空
     public boolean isEmpty() {
         return size == 0;
     }
 
+    // 向所有元素后添加一个新元素
     public void addLast(int e) {
         add(size, e);
     }
 
+    // 向所有元素前添加一个新元素
     public void addFirst(int e) {
         add(0, e);
     }
 
+    // 在第index个位置插入一个新元素e
     public void add(int index, int e) {
 
         if (size == data.length) {
@@ -52,6 +56,88 @@ public class Array {
 
         data[index] = e;
         size ++;
+    }
+
+    // 获取index索引位置的元素
+    public int get(int index) {
+
+        if (index < 0 || index > size) {
+            throw new IllegalArgumentException("get failed. Index is illegal");
+        }
+
+        return data[index];
+    }
+
+    // 修改index索引位置的元素为e
+    public void set(int index, int e) {
+
+        if (index < 0 || index > size) {
+            throw new IllegalArgumentException("get failed. Index is illegal");
+        }
+
+        data[index] = e;
+    }
+
+    // 查找数组中是否有元素e
+    public boolean contains(int e) {
+
+        for (int i = 0; i < size; i ++) {
+            if (data[i] == e) {
+                return  true;
+            }
+        }
+
+        return false;
+    }
+
+    // 查找数组中元素e所在的索引，如果不存在元素e，则返回-1
+    public int find(int e) {
+
+        for (int i = 0; i < size; i ++) {
+            if (data[i] == e) {
+                return  i;
+            }
+        }
+
+        return -1;
+    }
+
+    // 从数组中删除index位置的元素，返回删除的元素
+    public int remove(int index) {
+
+        if (index < 0 || index >= size) {
+            throw new IllegalArgumentException("fail");
+        }
+
+        int ret = data[index];
+
+        for (int i = index + 1; i < size; i ++) {
+            data[i - 1] = data[i];
+        }
+
+        size--;
+        return ret;
+    }
+
+    // 从数组中删除第一个元素，返回删除的元素
+    public int removeFirst() {
+        return remove(0);
+    }
+
+    // 从数组中删除最后一个元素，返回删除的元素
+    public int removeLast() {
+        return remove(size-1);
+    }
+    // 从数组中删除元素e
+    public boolean removeElement(int e) {
+        int index = find(e);
+
+        if (index != -1) {
+            remove(index);
+            return true;
+        } else {
+            return false;
+        }
     }
 
     @Override
